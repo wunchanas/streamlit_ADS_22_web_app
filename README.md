@@ -28,6 +28,6 @@ Number of Attributes: 10
 Attribute Information: Age (years), BMI (kg/m2), Glucose (mg/dL), Insulin (µU/mL), HOMA, Leptin (ng/mL), Adiponectin (µg/mL), Resistin (ng/mL), MCP-1(pg/dL), and Classification (Breast cancer and healthy controls)
 
 ## Full URL to Web Application
-      The web application for “Breast cancer diagnosis using machine learning based on parameters collected from physical examinations and routine blood analysis” is deployed on Streamlit Cloud (https://streamlit.io/cloud) and publicly available to access via the URL as shown below
+The web application for “Breast cancer diagnosis using machine learning based on parameters collected from physical examinations and routine blood analysis” is deployed on Streamlit Cloud (https://streamlit.io/cloud) and publicly available to access via the URL as shown below
 https://wunchanas-streamlit-ads-22-web-app-app-8qu2gc.streamlit.app/  
 
