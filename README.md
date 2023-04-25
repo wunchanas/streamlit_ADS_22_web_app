@@ -7,10 +7,6 @@
 ## Application Description 
 This is a user-friendly web application that can potentially diagnose breast cancer patients using machine learning classification algorithms. Based on data from UC Irvine Machine Learning Repository (https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Coimbra), a predictive machine learning model was trained by parameters collected from physical examinations (Age and BMI) and routine blood analysis (Glucose, Insulin, HOMA, Leptin, Adiponectin, Resistin, and MCP-1). I hope that this web application will be helpful for healthcare professionals who work with cancer patients (Caregivers, general practitioners, nurses, and medical oncologists).
 
-The web application namely "Top global universities 2023" is deployed on Streamlit Cloud (https://streamlit.io/cloud) and publicly available to access via the URL as shown below 
-
-https://wunchanas-sp23-applied-database-technologies-final-p-app-9a4kco.streamlit.app/
-
 ## Dataset
 ### Dataset: Breast Cancer Coimbra Data Set
 ### About Dataset
